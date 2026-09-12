@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Blue Falcons//Fall 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Blue Falcons Fall 2026
+BEGIN:VEVENT
+UID:blue-falcons-2026-09-12@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20260912T160000Z
+SUMMARY:Blue Falcons vs Purple Dragons
+LOCATION:Girsh Park Field 3\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-falcons-2026-09-19@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20260919T150000Z
+SUMMARY:Blue Falcons vs The Dragons
+LOCATION:Girsh Park Field 2\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-falcons-2026-10-03@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20261003T150000Z
+SUMMARY:Blue Falcons vs 
+LOCATION:Girsh Park Field 4\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-falcons-2026-10-10@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20261010T170000Z
+SUMMARY:Blue Falcons vs 
+LOCATION:Girsh Park Field 2\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-falcons-2026-10-17@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20261017T180000Z
+SUMMARY:Blue Falcons vs 
+LOCATION:Girsh Park Field 3\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-falcons-2026-10-24@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20261024T170000Z
+SUMMARY:Blue Falcons vs Neon Ninjas
+LOCATION:Girsh Park Field 4\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-falcons-2026-10-31@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20261031T210000Z
+SUMMARY:Blue Falcons vs 
+LOCATION:Girsh Park Field 2\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-falcons-2026-11-07@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20261107T200000Z
+SUMMARY:Blue Falcons vs Red Dragons
+LOCATION:Girsh Park Field 4\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-falcons-2026-11-14@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20261114T200000Z
+SUMMARY:Blue Falcons vs The Thors
+LOCATION:Girsh Park Field 2\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-falcons-2026-11-15@private-season.local
+DTSTAMP:20260912T000000Z
+DTSTART:20261115T230000Z
+SUMMARY:Blue Falcons vs 
+LOCATION:Girsh Park Field 3\, 7050 Phelps Rd\, Goleta
+DESCRIPTION:Arrive 20 minutes early. Calendar snapshot; follow coach updates.
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:Blue Falcons arrival reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
